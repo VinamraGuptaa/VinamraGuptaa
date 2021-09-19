@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vinamra Gupta</h1>
-<h3 align="center">A passionate Android app developer</h3>
+<h3 align="center">Currently making my way into Data Science and Machine learning. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinamraguptaa&label=Profile%20views&color=0e75b6&style=flat" alt="vinamraguptaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinamraguptaa" alt="vinamraguptaa" /></a> </p>
 
-- 🔭 I’m currently working on **Android Music Player**
+- 🔭 I’m currently working on **EDA,Interactive Dashboards, Ml models**
 
-- 🌱 I’m currently learning **Python, Competitive Programming, Exploring technologies**
+- 🌱 I’m currently learning **Python, Competitive Programming,Data Science,Excel,Stats**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
-- 💬 Ask me about **Android App Development**
+- 💬 Ask me about **Android App Development, Data Science, Data Analytics**
 
 - 📫 How to reach me **vinamragupta98@gmail.com**
 
