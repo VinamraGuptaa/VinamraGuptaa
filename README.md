@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinamra Gupta</h1>
 <h3 align="center">Currently making my way into Data Science and Machine learning. </h3>
-![Visitor Count](https : //profile-counter.glitch.me/{VinamraGuptaa}/count.svg)
+[Visitor Count]https : //profile-counter.glitch.me/{VinamraGuptaa}/count.svg
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinamraguptaa&label=Profile%20views&color=0e75b6&style=flat" alt="vinamraguptaa" /> </p>
 
